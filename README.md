@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [2785-sort-vowels-in-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [2785-sort-vowels-in-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
