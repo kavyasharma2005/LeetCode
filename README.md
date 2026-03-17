@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/kavyasharma2005/LeetCode/tree/master/0217-contains-duplicate) |
+| [3701-compute-alternating-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0009-palindrome-number) |
 | [2235-add-two-integers](https://github.com/kavyasharma2005/LeetCode/tree/master/2235-add-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [3701-compute-alternating-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/3701-compute-alternating-sum) |
 <!---LeetCode Topics End-->
