@@ -51,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kavyasharma2005/LeetCode/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/kavyasharma2005/LeetCode/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
