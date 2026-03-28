@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [2614-prime-in-diagonal](https://github.com/kavyasharma2005/LeetCode/tree/master/2614-prime-in-diagonal) |
+| [2651-calculate-delayed-arrival-time](https://github.com/kavyasharma2005/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
 ## Simulation
 |  |
 | ------- |
