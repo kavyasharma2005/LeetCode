@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/kavyasharma2005/LeetCode/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/kavyasharma2005/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavyasharma2005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/kavyasharma2005/LeetCode/tree/master/0162-find-peak-element) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kavyasharma2005/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/kavyasharma2005/LeetCode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/kavyasharma2005/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/kavyasharma2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/kavyasharma2005/LeetCode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0509-fibonacci-number) |
