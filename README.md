@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/kavyasharma2005/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/kavyasharma2005/LeetCode/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kavyasharma2005/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/kavyasharma2005/LeetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/kavyasharma2005/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Greedy
 |  |
