@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2739-total-distance-traveled](https://github.com/kavyasharma2005/LeetCode/tree/master/2739-total-distance-traveled) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/kavyasharma2005/LeetCode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/kavyasharma2005/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3099-harshad-number](https://github.com/kavyasharma2005/LeetCode/tree/master/3099-harshad-number) |
 ## Simulation
 |  |
 | ------- |
