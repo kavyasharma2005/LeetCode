@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/kavyasharma2005/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kavyasharma2005/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/kavyasharma2005/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3701-compute-alternating-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/kavyasharma2005/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/kavyasharma2005/LeetCode/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kavyasharma2005/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/kavyasharma2005/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Simulation
 |  |
 | ------- |
