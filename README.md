@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/kavyasharma2005/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2785-sort-vowels-in-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/kavyasharma2005/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3498-reverse-degree-of-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kavyasharma2005/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/kavyasharma2005/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/kavyasharma2005/LeetCode/tree/master/3794-reverse-string-prefix) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/kavyasharma2005/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2739-total-distance-traveled](https://github.com/kavyasharma2005/LeetCode/tree/master/2739-total-distance-traveled) |
+| [3498-reverse-degree-of-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/kavyasharma2005/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Counting
