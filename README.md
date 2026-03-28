@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/kavyasharma2005/LeetCode/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/kavyasharma2005/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/kavyasharma2005/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/kavyasharma2005/LeetCode/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kavyasharma2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/kavyasharma2005/LeetCode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/kavyasharma2005/LeetCode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/kavyasharma2005/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kavyasharma2005/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0509-fibonacci-number) |
 ## Brainteaser
 |  |
