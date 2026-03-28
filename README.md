@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/kavyasharma2005/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/kavyasharma2005/LeetCode/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1920-build-array-from-permutation](https://github.com/kavyasharma2005/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kavyasharma2005/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/kavyasharma2005/LeetCode/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/kavyasharma2005/LeetCode/tree/master/0832-flipping-an-image) |
 | [1688-count-of-matches-in-tournament](https://github.com/kavyasharma2005/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [1920-build-array-from-permutation](https://github.com/kavyasharma2005/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kavyasharma2005/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/kavyasharma2005/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
