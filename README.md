@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/kavyasharma2005/LeetCode/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/kavyasharma2005/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/kavyasharma2005/LeetCode/tree/master/0338-counting-bits) |
 ## Two Pointers
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kavyasharma2005/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/kavyasharma2005/LeetCode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/kavyasharma2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/kavyasharma2005/LeetCode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0509-fibonacci-number) |
