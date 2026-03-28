@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [2614-prime-in-diagonal](https://github.com/kavyasharma2005/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2651-calculate-delayed-arrival-time](https://github.com/kavyasharma2005/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
+| [2652-sum-multiples](https://github.com/kavyasharma2005/LeetCode/tree/master/2652-sum-multiples) |
 ## Simulation
 |  |
 | ------- |
