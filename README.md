@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kavyasharma2005/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kavyasharma2005/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kavyasharma2005/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kavyasharma2005/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kavyasharma2005/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/kavyasharma2005/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kavyasharma2005/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
 |  |
 | ------- |
