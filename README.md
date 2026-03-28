@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kavyasharma2005/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/kavyasharma2005/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/kavyasharma2005/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kavyasharma2005/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## String
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kavyasharma2005/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/kavyasharma2005/LeetCode/tree/master/0058-length-of-last-word) |
 | [0171-excel-sheet-column-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0771-jewels-and-stones](https://github.com/kavyasharma2005/LeetCode/tree/master/0771-jewels-and-stones) |
 | [2785-sort-vowels-in-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 ## Sorting
 |  |
