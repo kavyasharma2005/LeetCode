@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kavyasharma2005/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/kavyasharma2005/LeetCode/tree/master/0338-counting-bits) |
+| [0476-number-complement](https://github.com/kavyasharma2005/LeetCode/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kavyasharma2005/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Two Pointers
