@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/kavyasharma2005/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/kavyasharma2005/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kavyasharma2005/LeetCode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kavyasharma2005/LeetCode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kavyasharma2005/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kavyasharma2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/kavyasharma2005/LeetCode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/kavyasharma2005/LeetCode/tree/master/1137-n-th-tribonacci-number) |
