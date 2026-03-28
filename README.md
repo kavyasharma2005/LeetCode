@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2614-prime-in-diagonal](https://github.com/kavyasharma2005/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [3701-compute-alternating-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kavyasharma2005/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/2544-alternating-digit-sum) |
+| [2614-prime-in-diagonal](https://github.com/kavyasharma2005/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Simulation
 |  |
 | ------- |
@@ -197,10 +199,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/kavyasharma2005/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/kavyasharma2005/LeetCode/tree/master/2427-number-of-common-factors) |
+| [2614-prime-in-diagonal](https://github.com/kavyasharma2005/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Enumeration
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/kavyasharma2005/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/kavyasharma2005/LeetCode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/kavyasharma2005/LeetCode/tree/master/2427-number-of-common-factors) |
+## Matrix
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/kavyasharma2005/LeetCode/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
