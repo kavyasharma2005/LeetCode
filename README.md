@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kavyasharma2005/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/kavyasharma2005/LeetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/kavyasharma2005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kavyasharma2005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/kavyasharma2005/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kavyasharma2005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kavyasharma2005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/kavyasharma2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavyasharma2005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kavyasharma2005/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/kavyasharma2005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kavyasharma2005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kavyasharma2005/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kavyasharma2005/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kavyasharma2005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [2000-reverse-prefix-of-word](https://github.com/kavyasharma2005/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Sliding Window
 |  |
@@ -380,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kavyasharma2005/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
