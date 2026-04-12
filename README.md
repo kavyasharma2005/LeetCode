@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/kavyasharma2005/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kavyasharma2005/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/kavyasharma2005/LeetCode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1688-count-of-matches-in-tournament](https://github.com/kavyasharma2005/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/kavyasharma2005/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
