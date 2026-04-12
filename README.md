@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/kavyasharma2005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kavyasharma2005/LeetCode/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/kavyasharma2005/LeetCode/tree/master/0832-flipping-an-image) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/kavyasharma2005/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kavyasharma2005/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/kavyasharma2005/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kavyasharma2005/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kavyasharma2005/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kavyasharma2005/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kavyasharma2005/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0832-flipping-an-image](https://github.com/kavyasharma2005/LeetCode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/kavyasharma2005/LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kavyasharma2005/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/kavyasharma2005/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/kavyasharma2005/LeetCode/tree/master/0441-arranging-coins) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/kavyasharma2005/LeetCode/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kavyasharma2005/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
