@@ -12,7 +12,9 @@ class Solution {
             while(k<zeroes)
             {
                 if(nums[left]==0)
-                zeroes--;
+                {
+                    zeroes--;
+                }
                 left++;
             }
             len=right-left+1;
