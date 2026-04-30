@@ -1,6 +1,5 @@
 class Solution {
-    public int totalMoney(int n) 
-    {
+    public int totalMoney(int n) {
         int sum=0;
         int k=n/7,c=0;
         n=n%7;
@@ -16,6 +15,6 @@ class Solution {
         {
             sum=sum+i+c;
         }
-         return sum;    
+         return sum;  
     }
 }
