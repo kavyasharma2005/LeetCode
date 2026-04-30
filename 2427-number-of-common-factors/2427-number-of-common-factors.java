@@ -1,6 +1,5 @@
 class Solution {
-    public int commonFactors(int a, int b)
-    {
+    public int commonFactors(int a, int b) {
         int n=Math.min(a,b),c=0;
         for(int i=1;i<=n;i++)
         {
@@ -8,5 +7,6 @@ class Solution {
             c++;
         }
         return c;
+
     }
 }
