@@ -1,7 +1,6 @@
 class Solution {
-    public int hammingDistance(int x, int y) 
-    {
-        int i, count=0,bits=0;
+    public int hammingDistance(int x, int y) {
+         int i, count=0,bits=0;
         int max=(x<y)?y:x;
         while(max>0)
         {
