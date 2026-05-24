@@ -1,0 +1,35 @@
+class Solution {
+    int[] dp;
+
+    public int maxJumps(int[] arr, int d) {
+        int n = arr.length;
+        dp = new int[n];
+
+        int ans = 1;
+
+        for(int i = 0; i < n; i++) {
+            ans = Math.max(ans, dfs(arr, d, i));
+        }
+
+        return ans;
+    }
+
+    public int dfs(int[] arr, int d, int i) {
+        if(dp[i] != 0) return dp[i];
+
+        int ans = 1;
+        //left side
+        for(int j = i - 1; j >= 0 && j >= i - d; j--) {
+            if(arr[j] >= arr[i]) break;
+            ans = Math.max(ans, 1 + dfs(arr, d, j));
+        }
+        //right side
+        for(int j = i + 1; j < arr.length && j <= i + d; j++) {
+            if(arr[j] >= arr[i]) break;
+            ans = Math.max(ans, 1 + dfs(arr, d, j));
+        }
+
+        dp[i] = ans;
+        return ans;
+    }
+}
