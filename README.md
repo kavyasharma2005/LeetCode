@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kavyasharma2005/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/kavyasharma2005/LeetCode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kavyasharma2005/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1871-jump-game-vii](https://github.com/kavyasharma2005/LeetCode/tree/master/1871-jump-game-vii) |
 | [2000-reverse-prefix-of-word](https://github.com/kavyasharma2005/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2785-sort-vowels-in-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/kavyasharma2005/LeetCode/tree/master/2942-find-words-containing-character) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/kavyasharma2005/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1340-jump-game-v](https://github.com/kavyasharma2005/LeetCode/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/kavyasharma2005/LeetCode/tree/master/1871-jump-game-vii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/kavyasharma2005/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/kavyasharma2005/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1871-jump-game-vii](https://github.com/kavyasharma2005/LeetCode/tree/master/1871-jump-game-vii) |
 ## Trie
 |  |
 | ------- |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/kavyasharma2005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/kavyasharma2005/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1871-jump-game-vii](https://github.com/kavyasharma2005/LeetCode/tree/master/1871-jump-game-vii) |
 ## Queue
 |  |
 | ------- |
