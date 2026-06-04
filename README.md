@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/kavyasharma2005/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1340-jump-game-v](https://github.com/kavyasharma2005/LeetCode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/kavyasharma2005/LeetCode/tree/master/1871-jump-game-vii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kavyasharma2005/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kavyasharma2005/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/kavyasharma2005/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kavyasharma2005/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kavyasharma2005/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kavyasharma2005/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
 |  |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/kavyasharma2005/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/kavyasharma2005/LeetCode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/kavyasharma2005/LeetCode/tree/master/2427-number-of-common-factors) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/kavyasharma2005/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Matrix
 |  |
 | ------- |
