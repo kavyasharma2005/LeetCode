@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kavyasharma2005/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kavyasharma2005/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/kavyasharma2005/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kavyasharma2005/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/kavyasharma2005/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Quickselect
 |  |
 | ------- |
@@ -505,12 +507,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavyasharma2005/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/kavyasharma2005/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/kavyasharma2005/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/kavyasharma2005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/kavyasharma2005/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1871-jump-game-vii](https://github.com/kavyasharma2005/LeetCode/tree/master/1871-jump-game-vii) |
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kavyasharma2005/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
@@ -524,4 +528,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/kavyasharma2005/LeetCode/tree/master/3161-block-placement-queries) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kavyasharma2005/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
