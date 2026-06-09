@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kavyasharma2005/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/kavyasharma2005/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/kavyasharma2005/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/kavyasharma2005/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/kavyasharma2005/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kavyasharma2005/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/kavyasharma2005/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/kavyasharma2005/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kavyasharma2005/LeetCode/tree/master/0231-power-of-two) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/kavyasharma2005/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/kavyasharma2005/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kavyasharma2005/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kavyasharma2005/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kavyasharma2005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kavyasharma2005/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/kavyasharma2005/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/kavyasharma2005/LeetCode/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/kavyasharma2005/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/kavyasharma2005/LeetCode/tree/master/0867-transpose-matrix) |
