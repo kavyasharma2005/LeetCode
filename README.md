@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kavyasharma2005/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kavyasharma2005/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/kavyasharma2005/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/kavyasharma2005/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/kavyasharma2005/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/kavyasharma2005/LeetCode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kavyasharma2005/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/kavyasharma2005/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kavyasharma2005/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kavyasharma2005/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
