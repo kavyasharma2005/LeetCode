@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kavyasharma2005/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kavyasharma2005/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/kavyasharma2005/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kavyasharma2005/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kavyasharma2005/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kavyasharma2005/LeetCode/tree/master/0055-jump-game) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kavyasharma2005/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kavyasharma2005/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/kavyasharma2005/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/kavyasharma2005/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/kavyasharma2005/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/kavyasharma2005/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/kavyasharma2005/LeetCode/tree/master/0169-majority-element) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kavyasharma2005/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/kavyasharma2005/LeetCode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/kavyasharma2005/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kavyasharma2005/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/kavyasharma2005/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/kavyasharma2005/LeetCode/tree/master/0076-minimum-window-substring) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kavyasharma2005/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kavyasharma2005/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kavyasharma2005/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/kavyasharma2005/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kavyasharma2005/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kavyasharma2005/LeetCode/tree/master/0169-majority-element) |
