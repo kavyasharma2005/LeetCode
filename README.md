@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/kavyasharma2005/LeetCode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kavyasharma2005/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3838-weighted-word-mapping](https://github.com/kavyasharma2005/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kavyasharma2005/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/kavyasharma2005/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/kavyasharma2005/LeetCode/tree/master/3794-reverse-string-prefix) |
+| [3838-weighted-word-mapping](https://github.com/kavyasharma2005/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
 | ------- |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/kavyasharma2005/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3838-weighted-word-mapping](https://github.com/kavyasharma2005/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
 | ------- |
