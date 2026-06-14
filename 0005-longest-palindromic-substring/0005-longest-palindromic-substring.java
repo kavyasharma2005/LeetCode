@@ -4,36 +4,28 @@ class Solution
     {
         String ans = "";
 
-        for (int i = 0; i < s.length(); i++) {
+        for (int i = 0; i < s.length(); i++) 
+        {
+            String odd = expand(s, i, i);
+            String even = expand(s, i, i + 1);
 
-            for (int j = i; j < s.length(); j++) {
+            if (odd.length() > ans.length())
+                ans = odd;
 
-                String sub = s.substring(i, j + 1);
-
-                if (isPal(sub) && sub.length() > ans.length()) {
-                    ans = sub;
-                }
-            }
+            if (even.length() > ans.length())
+                ans = even;
         }
-
         return ans;
     }
 
-    boolean isPal(String s) {
-
-        int i = 0;
-        int j = s.length() - 1;
-
-        while (i < j) {
-
-            if (s.charAt(i) != s.charAt(j)) {
-                return false;
-            }
-
-            i++;
-            j--;
+    String expand(String s, int left, int right) 
+    {
+        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) 
+        {
+            left--;
+            right++;
         }
 
-        return true;
+        return s.substring(left + 1, right);
     }
 }
