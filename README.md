@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/kavyasharma2005/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1108-defanging-an-ip-address](https://github.com/kavyasharma2005/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1268-search-suggestions-system](https://github.com/kavyasharma2005/LeetCode/tree/master/1268-search-suggestions-system) |
+| [1392-longest-happy-prefix](https://github.com/kavyasharma2005/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [1528-shuffle-string](https://github.com/kavyasharma2005/LeetCode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kavyasharma2005/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/kavyasharma2005/LeetCode/tree/master/1816-truncate-sentence) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/kavyasharma2005/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/kavyasharma2005/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/kavyasharma2005/LeetCode/tree/master/0686-repeated-string-match) |
+| [1392-longest-happy-prefix](https://github.com/kavyasharma2005/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -627,9 +629,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/kavyasharma2005/LeetCode/tree/master/0214-shortest-palindrome) |
+| [1392-longest-happy-prefix](https://github.com/kavyasharma2005/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/kavyasharma2005/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/kavyasharma2005/LeetCode/tree/master/0336-palindrome-pairs) |
+| [1392-longest-happy-prefix](https://github.com/kavyasharma2005/LeetCode/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
