@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/kavyasharma2005/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kavyasharma2005/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/kavyasharma2005/LeetCode/tree/master/2942-find-words-containing-character) |
+| [2965-find-missing-and-repeated-values](https://github.com/kavyasharma2005/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kavyasharma2005/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/kavyasharma2005/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/kavyasharma2005/LeetCode/tree/master/3161-block-placement-queries) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kavyasharma2005/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/kavyasharma2005/LeetCode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kavyasharma2005/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/kavyasharma2005/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kavyasharma2005/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kavyasharma2005/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/kavyasharma2005/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/kavyasharma2005/LeetCode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/kavyasharma2005/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2965-find-missing-and-repeated-values](https://github.com/kavyasharma2005/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/kavyasharma2005/LeetCode/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kavyasharma2005/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/kavyasharma2005/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/kavyasharma2005/LeetCode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/kavyasharma2005/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2614-prime-in-diagonal](https://github.com/kavyasharma2005/LeetCode/tree/master/2614-prime-in-diagonal) |
+| [2965-find-missing-and-repeated-values](https://github.com/kavyasharma2005/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Counting Sort
 |  |
 | ------- |
