@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/kavyasharma2005/LeetCode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kavyasharma2005/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1871-jump-game-vii](https://github.com/kavyasharma2005/LeetCode/tree/master/1871-jump-game-vii) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kavyasharma2005/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/kavyasharma2005/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2785-sort-vowels-in-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/kavyasharma2005/LeetCode/tree/master/2942-find-words-containing-character) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/kavyasharma2005/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/kavyasharma2005/LeetCode/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/kavyasharma2005/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kavyasharma2005/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/kavyasharma2005/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kavyasharma2005/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kavyasharma2005/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kavyasharma2005/LeetCode/tree/master/0739-daily-temperatures) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/kavyasharma2005/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/kavyasharma2005/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Sliding Window
 |  |
