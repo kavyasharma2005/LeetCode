@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kavyasharma2005/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/kavyasharma2005/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1122-relative-sort-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1122-relative-sort-array) |
 | [1268-search-suggestions-system](https://github.com/kavyasharma2005/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kavyasharma2005/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1313-decompress-run-length-encoded-list](https://github.com/kavyasharma2005/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/kavyasharma2005/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kavyasharma2005/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kavyasharma2005/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1122-relative-sort-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/kavyasharma2005/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kavyasharma2005/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/kavyasharma2005/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0912-sort-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1122-relative-sort-array) |
 | [1268-search-suggestions-system](https://github.com/kavyasharma2005/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1340-jump-game-v](https://github.com/kavyasharma2005/LeetCode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kavyasharma2005/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kavyasharma2005/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/kavyasharma2005/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## String Matching
