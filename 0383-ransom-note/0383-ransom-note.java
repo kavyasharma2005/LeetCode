@@ -1,15 +1,26 @@
+import java.util.*;
+
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
 
-        for (char ch : ransomNote.toCharArray()) {
-            int idx = magazine.indexOf(ch);
+        HashMap<Character, Integer> map = new HashMap<>();
 
-            if (idx == -1) {
+        // Count frequency of magazine characters
+        for (char ch : magazine.toCharArray()) 
+        {
+            map.put(ch, map.getOrDefault(ch, 0) + 1);
+        }
+
+        // Check ransomNote characters
+        for (char ch : ransomNote.toCharArray()) 
+        {
+
+            if (!map.containsKey(ch) || map.get(ch) == 0) 
+            {
                 return false;
             }
 
-            magazine = magazine.substring(0, idx)
-                     + magazine.substring(idx + 1);
+            map.put(ch, map.get(ch) - 1);
         }
 
         return true;
