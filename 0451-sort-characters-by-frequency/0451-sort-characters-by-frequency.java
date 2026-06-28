@@ -1,34 +1,40 @@
+import java.util.*;
+
 class Solution {
-    public String frequencySort(String s) {
+    public String frequencySort(String s) 
+    {
+        // Step 1: frequency map
+        Map<Character, Integer> map = new HashMap<>();
 
-        HashMap<Character, Integer> map = new HashMap<>();
-
-        for (int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
-            map.put(ch, map.getOrDefault(ch, 0) + 1);
+        for (char c : s.toCharArray()) 
+        {
+            map.put(c, map.getOrDefault(c, 0) + 1);
         }
 
-        StringBuilder ans = new StringBuilder();
+        // Step 2: max heap based on frequency
+        PriorityQueue<Character> pq = new PriorityQueue<>((a, b) -> map.get(b) - map.get(a));
 
-        while (!map.isEmpty()) {
-
-            char maxChar = ' ';
-            int maxFreq = 0;
-
-            for (char ch : map.keySet()) {
-                if (map.get(ch) > maxFreq) {
-                    maxFreq = map.get(ch);
-                    maxChar = ch;
-                }
-            }
-
-            for (int i = 0; i < maxFreq; i++) {
-                ans.append(maxChar);
-            }
-
-            map.remove(maxChar);
+        // add all characters to heap
+        for (char c : map.keySet()) 
+        {
+            pq.offer(c);
         }
 
-        return ans.toString();
+        // Step 3: build result
+        StringBuilder sb = new StringBuilder();
+
+        while (!pq.isEmpty()) 
+        {
+
+            char c = pq.poll();
+            int freq = map.get(c);
+
+            while (freq-- > 0) 
+            {
+                sb.append(c);
+            }
+        }
+
+        return sb.toString();
     }
 }
