@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kavyasharma2005/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kavyasharma2005/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1480-running-sum-of-1d-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1499-max-value-of-equation](https://github.com/kavyasharma2005/LeetCode/tree/master/1499-max-value-of-equation) |
 | [1512-number-of-good-pairs](https://github.com/kavyasharma2005/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/kavyasharma2005/LeetCode/tree/master/1528-shuffle-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kavyasharma2005/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0912-sort-an-array) |
 | [1268-search-suggestions-system](https://github.com/kavyasharma2005/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kavyasharma2005/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1499-max-value-of-equation](https://github.com/kavyasharma2005/LeetCode/tree/master/1499-max-value-of-equation) |
 ## Quickselect
 |  |
 | ------- |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/kavyasharma2005/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1044-longest-duplicate-substring](https://github.com/kavyasharma2005/LeetCode/tree/master/1044-longest-duplicate-substring) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kavyasharma2005/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1499-max-value-of-equation](https://github.com/kavyasharma2005/LeetCode/tree/master/1499-max-value-of-equation) |
 | [1871-jump-game-vii](https://github.com/kavyasharma2005/LeetCode/tree/master/1871-jump-game-vii) |
 ## Queue
 |  |
@@ -731,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/kavyasharma2005/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kavyasharma2005/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kavyasharma2005/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1499-max-value-of-equation](https://github.com/kavyasharma2005/LeetCode/tree/master/1499-max-value-of-equation) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kavyasharma2005/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kavyasharma2005/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Stack
@@ -755,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/kavyasharma2005/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kavyasharma2005/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1499-max-value-of-equation](https://github.com/kavyasharma2005/LeetCode/tree/master/1499-max-value-of-equation) |
 ## Merge Sort
 |  |
 | ------- |
