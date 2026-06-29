@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/kavyasharma2005/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/kavyasharma2005/LeetCode/tree/master/1046-last-stone-weight) |
 | [1122-relative-sort-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/kavyasharma2005/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/kavyasharma2005/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kavyasharma2005/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1313-decompress-run-length-encoded-list](https://github.com/kavyasharma2005/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/kavyasharma2005/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1122-relative-sort-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/kavyasharma2005/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1207-unique-number-of-occurrences](https://github.com/kavyasharma2005/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kavyasharma2005/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/kavyasharma2005/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kavyasharma2005/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
