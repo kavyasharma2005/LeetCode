@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kavyasharma2005/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kavyasharma2005/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1499-max-value-of-equation](https://github.com/kavyasharma2005/LeetCode/tree/master/1499-max-value-of-equation) |
 | [1512-number-of-good-pairs](https://github.com/kavyasharma2005/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/kavyasharma2005/LeetCode/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kavyasharma2005/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kavyasharma2005/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kavyasharma2005/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/kavyasharma2005/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/kavyasharma2005/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/kavyasharma2005/LeetCode/tree/master/1046-last-stone-weight) |
 | [1268-search-suggestions-system](https://github.com/kavyasharma2005/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kavyasharma2005/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1499-max-value-of-equation](https://github.com/kavyasharma2005/LeetCode/tree/master/1499-max-value-of-equation) |
 ## Quickselect
 |  |
