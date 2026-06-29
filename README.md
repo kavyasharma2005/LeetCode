@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-longest-duplicate-substring](https://github.com/kavyasharma2005/LeetCode/tree/master/1044-longest-duplicate-substring) |
 | [1108-defanging-an-ip-address](https://github.com/kavyasharma2005/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/kavyasharma2005/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/kavyasharma2005/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1268-search-suggestions-system](https://github.com/kavyasharma2005/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1392-longest-happy-prefix](https://github.com/kavyasharma2005/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [1528-shuffle-string](https://github.com/kavyasharma2005/LeetCode/tree/master/1528-shuffle-string) |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/kavyasharma2005/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/kavyasharma2005/LeetCode/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/kavyasharma2005/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/kavyasharma2005/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kavyasharma2005/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kavyasharma2005/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kavyasharma2005/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
