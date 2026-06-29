@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/kavyasharma2005/LeetCode/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/kavyasharma2005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/kavyasharma2005/LeetCode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/kavyasharma2005/LeetCode/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/kavyasharma2005/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/kavyasharma2005/LeetCode/tree/master/0739-daily-temperatures) |
 | [0804-unique-morse-code-words](https://github.com/kavyasharma2005/LeetCode/tree/master/0804-unique-morse-code-words) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kavyasharma2005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kavyasharma2005/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0705-design-hashset](https://github.com/kavyasharma2005/LeetCode/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/kavyasharma2005/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/kavyasharma2005/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kavyasharma2005/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/kavyasharma2005/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/kavyasharma2005/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/kavyasharma2005/LeetCode/tree/master/0336-palindrome-pairs) |
+| [0705-design-hashset](https://github.com/kavyasharma2005/LeetCode/tree/master/0705-design-hashset) |
 | [1044-longest-duplicate-substring](https://github.com/kavyasharma2005/LeetCode/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/kavyasharma2005/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Linked List
@@ -835,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/kavyasharma2005/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/kavyasharma2005/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/kavyasharma2005/LeetCode/tree/master/0641-design-circular-deque) |
+| [0705-design-hashset](https://github.com/kavyasharma2005/LeetCode/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/kavyasharma2005/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
@@ -845,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/kavyasharma2005/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/kavyasharma2005/LeetCode/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kavyasharma2005/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/kavyasharma2005/LeetCode/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/kavyasharma2005/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/kavyasharma2005/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Suffix Array
