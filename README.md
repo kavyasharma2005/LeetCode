@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/kavyasharma2005/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kavyasharma2005/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/kavyasharma2005/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kavyasharma2005/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/kavyasharma2005/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/kavyasharma2005/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kavyasharma2005/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kavyasharma2005/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1122-relative-sort-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/kavyasharma2005/LeetCode/tree/master/1189-maximum-number-of-balloons) |
