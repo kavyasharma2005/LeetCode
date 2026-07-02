@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/kavyasharma2005/LeetCode/tree/master/0739-daily-temperatures) |
 | [0804-unique-morse-code-words](https://github.com/kavyasharma2005/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/kavyasharma2005/LeetCode/tree/master/0832-flipping-an-image) |
+| [0846-hand-of-straights](https://github.com/kavyasharma2005/LeetCode/tree/master/0846-hand-of-straights) |
 | [0867-transpose-matrix](https://github.com/kavyasharma2005/LeetCode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/kavyasharma2005/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0912-sort-an-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/kavyasharma2005/LeetCode/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/kavyasharma2005/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/kavyasharma2005/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0846-hand-of-straights](https://github.com/kavyasharma2005/LeetCode/tree/master/0846-hand-of-straights) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kavyasharma2005/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kavyasharma2005/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/kavyasharma2005/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kavyasharma2005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0846-hand-of-straights](https://github.com/kavyasharma2005/LeetCode/tree/master/0846-hand-of-straights) |
 | [0905-sort-array-by-parity](https://github.com/kavyasharma2005/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kavyasharma2005/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kavyasharma2005/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/kavyasharma2005/LeetCode/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0846-hand-of-straights](https://github.com/kavyasharma2005/LeetCode/tree/master/0846-hand-of-straights) |
 | [0976-largest-perimeter-triangle](https://github.com/kavyasharma2005/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1833-maximum-ice-cream-bars](https://github.com/kavyasharma2005/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/kavyasharma2005/LeetCode/tree/master/2126-destroying-asteroids) |
