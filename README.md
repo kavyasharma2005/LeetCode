@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/kavyasharma2005/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kavyasharma2005/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kavyasharma2005/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2034-stock-price-fluctuation](https://github.com/kavyasharma2005/LeetCode/tree/master/2034-stock-price-fluctuation) |
 | [2540-minimum-common-value](https://github.com/kavyasharma2005/LeetCode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kavyasharma2005/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/kavyasharma2005/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kavyasharma2005/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1499-max-value-of-equation](https://github.com/kavyasharma2005/LeetCode/tree/master/1499-max-value-of-equation) |
+| [2034-stock-price-fluctuation](https://github.com/kavyasharma2005/LeetCode/tree/master/2034-stock-price-fluctuation) |
 ## Quickselect
 |  |
 | ------- |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/kavyasharma2005/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/kavyasharma2005/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/kavyasharma2005/LeetCode/tree/master/0981-time-based-key-value-store) |
+| [2034-stock-price-fluctuation](https://github.com/kavyasharma2005/LeetCode/tree/master/2034-stock-price-fluctuation) |
 ## Suffix Array
 |  |
 | ------- |
@@ -938,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/kavyasharma2005/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/kavyasharma2005/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/kavyasharma2005/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [2034-stock-price-fluctuation](https://github.com/kavyasharma2005/LeetCode/tree/master/2034-stock-price-fluctuation) |
 ## Ordered Set
 |  |
 | ------- |
@@ -946,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/kavyasharma2005/LeetCode/tree/master/0732-my-calendar-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kavyasharma2005/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2034-stock-price-fluctuation](https://github.com/kavyasharma2005/LeetCode/tree/master/2034-stock-price-fluctuation) |
 ## Tree
 |  |
 | ------- |
