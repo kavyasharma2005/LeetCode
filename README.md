@@ -863,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/kavyasharma2005/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/kavyasharma2005/LeetCode/tree/master/0732-my-calendar-iii) |
+| [2276-count-integers-in-intervals](https://github.com/kavyasharma2005/LeetCode/tree/master/2276-count-integers-in-intervals) |
 | [3161-block-placement-queries](https://github.com/kavyasharma2005/LeetCode/tree/master/3161-block-placement-queries) |
 ## Monotonic Queue
 |  |
@@ -945,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/kavyasharma2005/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/kavyasharma2005/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [2034-stock-price-fluctuation](https://github.com/kavyasharma2005/LeetCode/tree/master/2034-stock-price-fluctuation) |
+| [2276-count-integers-in-intervals](https://github.com/kavyasharma2005/LeetCode/tree/master/2276-count-integers-in-intervals) |
 | [2349-design-a-number-container-system](https://github.com/kavyasharma2005/LeetCode/tree/master/2349-design-a-number-container-system) |
 ## Suffix Array
 |  |
@@ -970,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0855-exam-room](https://github.com/kavyasharma2005/LeetCode/tree/master/0855-exam-room) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/kavyasharma2005/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2034-stock-price-fluctuation](https://github.com/kavyasharma2005/LeetCode/tree/master/2034-stock-price-fluctuation) |
+| [2276-count-integers-in-intervals](https://github.com/kavyasharma2005/LeetCode/tree/master/2276-count-integers-in-intervals) |
 | [2349-design-a-number-container-system](https://github.com/kavyasharma2005/LeetCode/tree/master/2349-design-a-number-container-system) |
 ## Tree
 |  |
