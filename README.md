@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kavyasharma2005/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/kavyasharma2005/LeetCode/tree/master/0290-word-pattern) |
 | [0336-palindrome-pairs](https://github.com/kavyasharma2005/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/kavyasharma2005/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kavyasharma2005/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/kavyasharma2005/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/kavyasharma2005/LeetCode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/kavyasharma2005/LeetCode/tree/master/0290-word-pattern) |
 | [0336-palindrome-pairs](https://github.com/kavyasharma2005/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/kavyasharma2005/LeetCode/tree/master/0383-ransom-note) |
