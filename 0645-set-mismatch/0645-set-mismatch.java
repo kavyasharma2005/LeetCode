@@ -1,32 +1,19 @@
-class Solution 
-{
-
-    public int[] findErrorNums(int[] nums) 
-    {
-
-        LinkedHashSet<Integer> set = new LinkedHashSet<>();
-
-        int duplicate = -1;
-
-        for (int num : nums) 
+class Solution {
+    public int[] findErrorNums(int[] nums) {
+        HashSet<Integer> set= new HashSet<>();
+        int duplicate=0;
+        for(int num:nums)
         {
-
-            if (!set.add(num))
-                duplicate = num;
+            if(set.contains(num))
+            duplicate=num;
+            set.add(num);
         }
-
-        int missing = -1;
-
-        for (int i = 1; i <= nums.length; i++) 
+        int removed=0;
+        for(int i=1;i<nums.length+1;i++)
         {
-
-            if (!set.contains(i)) 
-            {
-                missing = i;
-                break;
-            }
+            if(!set.contains(i))
+            removed=i;
         }
-
-        return new int[]{duplicate, missing};
+        return new int[]{duplicate,removed};
     }
 }
