@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/kavyasharma2005/LeetCode/tree/master/0739-daily-temperatures) |
 | [0804-unique-morse-code-words](https://github.com/kavyasharma2005/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/kavyasharma2005/LeetCode/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/kavyasharma2005/LeetCode/tree/master/0832-flipping-an-image) |
 | [0846-hand-of-straights](https://github.com/kavyasharma2005/LeetCode/tree/master/0846-hand-of-straights) |
 | [0867-transpose-matrix](https://github.com/kavyasharma2005/LeetCode/tree/master/0867-transpose-matrix) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/kavyasharma2005/LeetCode/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/kavyasharma2005/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/kavyasharma2005/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/kavyasharma2005/LeetCode/tree/master/0819-most-common-word) |
 | [0846-hand-of-straights](https://github.com/kavyasharma2005/LeetCode/tree/master/0846-hand-of-straights) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kavyasharma2005/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/kavyasharma2005/LeetCode/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/kavyasharma2005/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/kavyasharma2005/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/kavyasharma2005/LeetCode/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/kavyasharma2005/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/kavyasharma2005/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kavyasharma2005/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/kavyasharma2005/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kavyasharma2005/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0819-most-common-word](https://github.com/kavyasharma2005/LeetCode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kavyasharma2005/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kavyasharma2005/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/kavyasharma2005/LeetCode/tree/master/1189-maximum-number-of-balloons) |
