@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kavyasharma2005/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/kavyasharma2005/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/kavyasharma2005/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1748-sum-of-unique-elements](https://github.com/kavyasharma2005/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kavyasharma2005/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/kavyasharma2005/LeetCode/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/kavyasharma2005/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kavyasharma2005/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1748-sum-of-unique-elements](https://github.com/kavyasharma2005/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kavyasharma2005/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2034-stock-price-fluctuation](https://github.com/kavyasharma2005/LeetCode/tree/master/2034-stock-price-fluctuation) |
 | [2349-design-a-number-container-system](https://github.com/kavyasharma2005/LeetCode/tree/master/2349-design-a-number-container-system) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kavyasharma2005/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/kavyasharma2005/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/kavyasharma2005/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [3467-transform-array-by-parity](https://github.com/kavyasharma2005/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kavyasharma2005/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
