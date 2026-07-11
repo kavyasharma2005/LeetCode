@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/kavyasharma2005/LeetCode/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/kavyasharma2005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/kavyasharma2005/LeetCode/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/kavyasharma2005/LeetCode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/kavyasharma2005/LeetCode/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/kavyasharma2005/LeetCode/tree/master/0724-find-pivot-index) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/kavyasharma2005/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kavyasharma2005/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/kavyasharma2005/LeetCode/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/kavyasharma2005/LeetCode/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/kavyasharma2005/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/kavyasharma2005/LeetCode/tree/master/0804-unique-morse-code-words) |
