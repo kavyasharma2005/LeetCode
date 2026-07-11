@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/kavyasharma2005/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kavyasharma2005/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0929-unique-email-addresses](https://github.com/kavyasharma2005/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/kavyasharma2005/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/kavyasharma2005/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/kavyasharma2005/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/kavyasharma2005/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kavyasharma2005/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0929-unique-email-addresses](https://github.com/kavyasharma2005/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0981-time-based-key-value-store](https://github.com/kavyasharma2005/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kavyasharma2005/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/kavyasharma2005/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/kavyasharma2005/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kavyasharma2005/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0929-unique-email-addresses](https://github.com/kavyasharma2005/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0981-time-based-key-value-store](https://github.com/kavyasharma2005/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1002-find-common-characters](https://github.com/kavyasharma2005/LeetCode/tree/master/1002-find-common-characters) |
 | [1023-camelcase-matching](https://github.com/kavyasharma2005/LeetCode/tree/master/1023-camelcase-matching) |
