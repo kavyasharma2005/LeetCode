@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kavyasharma2005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/kavyasharma2005/LeetCode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/kavyasharma2005/LeetCode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/kavyasharma2005/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kavyasharma2005/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0622-design-circular-queue](https://github.com/kavyasharma2005/LeetCode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kavyasharma2005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/kavyasharma2005/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/kavyasharma2005/LeetCode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/kavyasharma2005/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/kavyasharma2005/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/kavyasharma2005/LeetCode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/kavyasharma2005/LeetCode/tree/master/0705-design-hashset) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/kavyasharma2005/LeetCode/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/kavyasharma2005/LeetCode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/kavyasharma2005/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kavyasharma2005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/kavyasharma2005/LeetCode/tree/master/0645-set-mismatch) |
 | [0846-hand-of-straights](https://github.com/kavyasharma2005/LeetCode/tree/master/0846-hand-of-straights) |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/kavyasharma2005/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kavyasharma2005/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/kavyasharma2005/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/kavyasharma2005/LeetCode/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kavyasharma2005/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kavyasharma2005/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -845,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/kavyasharma2005/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/kavyasharma2005/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/kavyasharma2005/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kavyasharma2005/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/kavyasharma2005/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
