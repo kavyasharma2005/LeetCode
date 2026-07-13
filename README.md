@@ -1029,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kavyasharma2005/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kavyasharma2005/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kavyasharma2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kavyasharma2005/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -1040,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kavyasharma2005/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kavyasharma2005/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kavyasharma2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kavyasharma2005/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -1055,6 +1057,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kavyasharma2005/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kavyasharma2005/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kavyasharma2005/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
