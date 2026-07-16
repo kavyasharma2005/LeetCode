@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kavyasharma2005/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kavyasharma2005/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/kavyasharma2005/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/kavyasharma2005/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kavyasharma2005/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kavyasharma2005/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/kavyasharma2005/LeetCode/tree/master/0846-hand-of-straights) |
 | [0976-largest-perimeter-triangle](https://github.com/kavyasharma2005/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1833-maximum-ice-cream-bars](https://github.com/kavyasharma2005/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/kavyasharma2005/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/kavyasharma2005/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kavyasharma2005/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/kavyasharma2005/LeetCode/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
