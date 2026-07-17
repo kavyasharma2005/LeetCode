@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/kavyasharma2005/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/kavyasharma2005/LeetCode/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/kavyasharma2005/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1550-three-consecutive-odds](https://github.com/kavyasharma2005/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kavyasharma2005/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/kavyasharma2005/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kavyasharma2005/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
