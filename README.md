@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/kavyasharma2005/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/kavyasharma2005/LeetCode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/kavyasharma2005/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/kavyasharma2005/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/kavyasharma2005/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/kavyasharma2005/LeetCode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/kavyasharma2005/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/kavyasharma2005/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/kavyasharma2005/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0509-fibonacci-number) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/kavyasharma2005/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/kavyasharma2005/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/kavyasharma2005/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/kavyasharma2005/LeetCode/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/kavyasharma2005/LeetCode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/kavyasharma2005/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/kavyasharma2005/LeetCode/tree/master/0867-transpose-matrix) |
