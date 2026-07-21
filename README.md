@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/kavyasharma2005/LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kavyasharma2005/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0804-unique-morse-code-words](https://github.com/kavyasharma2005/LeetCode/tree/master/0804-unique-morse-code-words) |
+| [0812-largest-triangle-area](https://github.com/kavyasharma2005/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/kavyasharma2005/LeetCode/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/kavyasharma2005/LeetCode/tree/master/0832-flipping-an-image) |
 | [0846-hand-of-straights](https://github.com/kavyasharma2005/LeetCode/tree/master/0846-hand-of-straights) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kavyasharma2005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/kavyasharma2005/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0812-largest-triangle-area](https://github.com/kavyasharma2005/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kavyasharma2005/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/kavyasharma2005/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/kavyasharma2005/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -1130,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/kavyasharma2005/LeetCode/tree/master/0812-largest-triangle-area) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/kavyasharma2005/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Union-Find
 |  |
