@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kavyasharma2005/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/kavyasharma2005/LeetCode/tree/master/3467-transform-array-by-parity) |
+| [3477-fruits-into-baskets-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kavyasharma2005/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kavyasharma2005/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kavyasharma2005/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/kavyasharma2005/LeetCode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kavyasharma2005/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3161-block-placement-queries](https://github.com/kavyasharma2005/LeetCode/tree/master/3161-block-placement-queries) |
+| [3477-fruits-into-baskets-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kavyasharma2005/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
@@ -698,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/kavyasharma2005/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2739-total-distance-traveled](https://github.com/kavyasharma2005/LeetCode/tree/master/2739-total-distance-traveled) |
+| [3477-fruits-into-baskets-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/kavyasharma2005/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -939,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0732-my-calendar-iii](https://github.com/kavyasharma2005/LeetCode/tree/master/0732-my-calendar-iii) |
 | [2276-count-integers-in-intervals](https://github.com/kavyasharma2005/LeetCode/tree/master/2276-count-integers-in-intervals) |
 | [3161-block-placement-queries](https://github.com/kavyasharma2005/LeetCode/tree/master/3161-block-placement-queries) |
+| [3477-fruits-into-baskets-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1048,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2034-stock-price-fluctuation](https://github.com/kavyasharma2005/LeetCode/tree/master/2034-stock-price-fluctuation) |
 | [2276-count-integers-in-intervals](https://github.com/kavyasharma2005/LeetCode/tree/master/2276-count-integers-in-intervals) |
 | [2349-design-a-number-container-system](https://github.com/kavyasharma2005/LeetCode/tree/master/2349-design-a-number-container-system) |
+| [3477-fruits-into-baskets-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Tree
 |  |
 | ------- |
