@@ -672,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/kavyasharma2005/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/kavyasharma2005/LeetCode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/kavyasharma2005/LeetCode/tree/master/2469-convert-the-temperature) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/kavyasharma2005/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/kavyasharma2005/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/2544-alternating-digit-sum) |
@@ -1152,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-largest-triangle-area](https://github.com/kavyasharma2005/LeetCode/tree/master/0812-largest-triangle-area) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/kavyasharma2005/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/kavyasharma2005/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Union-Find
 |  |
 | ------- |
