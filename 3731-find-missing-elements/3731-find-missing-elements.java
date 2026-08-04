@@ -1,0 +1,29 @@
+class Solution {
+    public List<Integer> findMissingElements(int[] nums) {
+
+        int min = 100;
+        int max = 0;
+
+        HashSet<Integer> set = new HashSet<>();
+
+        // Find min, max and store elements
+        for (int num : nums) 
+        {
+            min = Math.min(min, num);
+            max = Math.max(max, num);
+            set.add(num);
+        }
+
+        List<Integer> ans = new ArrayList<>();
+
+        // Check numbers between min and max
+        for (int i = min + 1; i < max; i++) {
+            if (!set.contains(i))
+             {
+                ans.add(i);
+            }
+        }
+
+        return ans;
+    }
+}
