@@ -1,18 +1,12 @@
 class Solution {
-    public boolean isPowerOfTwo(int n) 
-    {
-        if(n==0)
-        return false;
-        while(n!=1)
-    {
-    if(n%2==0)
-    {
-    n=n/2;
-    continue;
-    }
-    else
-    return false;
-    }
-    return true;
+    public boolean isPowerOfTwo(int n) {
+
+        if (n <= 0) {
+            return false;
+        }
+
+        double k = Math.log(n) / Math.log(2);
+
+        return  Math.abs(k - Math.round(k)) < 1e-10;
     }
 }
