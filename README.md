@@ -692,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/kavyasharma2005/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/kavyasharma2005/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kavyasharma2005/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3492-maximum-containers-on-a-ship](https://github.com/kavyasharma2005/LeetCode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kavyasharma2005/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/kavyasharma2005/LeetCode/tree/master/3516-find-closest-person) |
@@ -849,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/kavyasharma2005/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/kavyasharma2005/LeetCode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/kavyasharma2005/LeetCode/tree/master/2427-number-of-common-factors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kavyasharma2005/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/kavyasharma2005/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Matrix
 |  |
