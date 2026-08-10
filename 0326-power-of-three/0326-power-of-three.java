@@ -1,6 +1,12 @@
 class Solution {
-    public boolean isPowerOfThree(int n) 
-    {
-        return n > 0 && 1162261467 % n == 0;
+    public boolean isPowerOfThree(int n) {
+
+        if (n <= 0) {
+            return false;
+        }
+
+        double k = Math.log(n) / Math.log(3);
+
+        return  Math.abs(k - Math.round(k)) < 1e-10;
     }
 }
