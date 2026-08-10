@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/kavyasharma2005/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/kavyasharma2005/LeetCode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/kavyasharma2005/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/kavyasharma2005/LeetCode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/kavyasharma2005/LeetCode/tree/master/0645-set-mismatch) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/kavyasharma2005/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/kavyasharma2005/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kavyasharma2005/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/kavyasharma2005/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0396-rotate-function](https://github.com/kavyasharma2005/LeetCode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/kavyasharma2005/LeetCode/tree/master/0412-fizz-buzz) |
@@ -823,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kavyasharma2005/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/kavyasharma2005/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/kavyasharma2005/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kavyasharma2005/LeetCode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0509-fibonacci-number) |
 ## Brainteaser
