@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kavyasharma2005/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/kavyasharma2005/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/kavyasharma2005/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kavyasharma2005/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/kavyasharma2005/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/kavyasharma2005/LeetCode/tree/master/3161-block-placement-queries) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/kavyasharma2005/LeetCode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kavyasharma2005/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/kavyasharma2005/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kavyasharma2005/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kavyasharma2005/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/kavyasharma2005/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2785-sort-vowels-in-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kavyasharma2005/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3467-transform-array-by-parity](https://github.com/kavyasharma2005/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/kavyasharma2005/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kavyasharma2005/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
