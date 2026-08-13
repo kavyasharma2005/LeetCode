@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kavyasharma2005/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/kavyasharma2005/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3921-score-validator](https://github.com/kavyasharma2005/LeetCode/tree/master/3921-score-validator) |
+| [3925-concatenate-array-with-reverse](https://github.com/kavyasharma2005/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/kavyasharma2005/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3726-remove-zeros-in-decimal-representation](https://github.com/kavyasharma2005/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3838-weighted-word-mapping](https://github.com/kavyasharma2005/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3921-score-validator](https://github.com/kavyasharma2005/LeetCode/tree/master/3921-score-validator) |
+| [3925-concatenate-array-with-reverse](https://github.com/kavyasharma2005/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Counting
 |  |
 | ------- |
