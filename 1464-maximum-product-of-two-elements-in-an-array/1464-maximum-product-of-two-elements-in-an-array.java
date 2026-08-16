@@ -1,20 +1,23 @@
-class Solution {
+class Solution 
+{
+    public int maxProduct(int[] nums) 
+    {
+        int max1 = 0;
+        int max2 = 0;
 
-    public int maxProduct(int[] nums) {
-
-        int first = 0;
-        int second = 0;
-
-        for (int num : nums) {
-
-            if (num > first) {
-                second = first;
-                first = num;
-            } else if (num > second) {
-                second = num;
+        for (int num : nums) 
+        {
+            if (num > max1) 
+            {
+                max2 = max1;
+                max1 = num;
+            } 
+            else if (num > max2) 
+            {
+                max2 = num;
             }
         }
 
-        return (first - 1) * (second - 1);
+        return (max1 - 1) * (max2 - 1);
     }
 }
