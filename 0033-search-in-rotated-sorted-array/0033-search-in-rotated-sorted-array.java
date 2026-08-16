@@ -1,6 +1,5 @@
 class Solution {
-    public int search(int[] nums, int target) 
-    {
+    public int search(int[] nums, int target) {
         int beg = 0, end = nums.length - 1;
 
         while(beg <= end)
