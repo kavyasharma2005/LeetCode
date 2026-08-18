@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/kavyasharma2005/LeetCode/tree/master/0832-flipping-an-image) |
 | [0846-hand-of-straights](https://github.com/kavyasharma2005/LeetCode/tree/master/0846-hand-of-straights) |
 | [0867-transpose-matrix](https://github.com/kavyasharma2005/LeetCode/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/kavyasharma2005/LeetCode/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/kavyasharma2005/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/kavyasharma2005/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/kavyasharma2005/LeetCode/tree/master/0908-smallest-range-i) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/kavyasharma2005/LeetCode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/kavyasharma2005/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0877-stone-game](https://github.com/kavyasharma2005/LeetCode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/kavyasharma2005/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1340-jump-game-v](https://github.com/kavyasharma2005/LeetCode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/kavyasharma2005/LeetCode/tree/master/1871-jump-game-vii) |
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kavyasharma2005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/kavyasharma2005/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/kavyasharma2005/LeetCode/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/kavyasharma2005/LeetCode/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/kavyasharma2005/LeetCode/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/kavyasharma2005/LeetCode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/kavyasharma2005/LeetCode/tree/master/0976-largest-perimeter-triangle) |
@@ -846,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kavyasharma2005/LeetCode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/kavyasharma2005/LeetCode/tree/master/0877-stone-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -1220,4 +1224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/kavyasharma2005/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/kavyasharma2005/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kavyasharma2005/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kavyasharma2005/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
