@@ -1,19 +1,19 @@
 class Solution {
-    public int smallestNumber(int n, int t) 
-    {
-        while(true)
-        {
-            int d=0;
-            int num=n++;
-            int pro=1;
-            while(num>0)
-            {
-                d=num%10;
-                num/=10;
-                pro*=d;
+    public int smallestNumber(int n, int t) {
+        while (true) {
+            int product = 1;
+            int temp = n;
+
+            while (temp > 0) {
+                product *= (temp % 10);
+                temp /= 10;
             }
-            if(pro%t==0)
-            return n-1;
+
+            if (product % t == 0) {
+                return n;
+            }
+
+            n++;
         }
     }
 }
