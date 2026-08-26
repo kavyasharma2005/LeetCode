@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/kavyasharma2005/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kavyasharma2005/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/kavyasharma2005/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/kavyasharma2005/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/kavyasharma2005/LeetCode/tree/master/0415-add-strings) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/kavyasharma2005/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/kavyasharma2005/LeetCode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/kavyasharma2005/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/kavyasharma2005/LeetCode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/kavyasharma2005/LeetCode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/kavyasharma2005/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/kavyasharma2005/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kavyasharma2005/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/kavyasharma2005/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/kavyasharma2005/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/kavyasharma2005/LeetCode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
