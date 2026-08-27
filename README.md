@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3921-score-validator](https://github.com/kavyasharma2005/LeetCode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/kavyasharma2005/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/kavyasharma2005/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [4020-elevator-requests-i](https://github.com/kavyasharma2005/LeetCode/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -760,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3921-score-validator](https://github.com/kavyasharma2005/LeetCode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/kavyasharma2005/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3959-check-good-integer](https://github.com/kavyasharma2005/LeetCode/tree/master/3959-check-good-integer) |
+| [4020-elevator-requests-i](https://github.com/kavyasharma2005/LeetCode/tree/master/4020-elevator-requests-i) |
 ## Counting
 |  |
 | ------- |
