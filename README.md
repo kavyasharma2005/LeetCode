@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kavyasharma2005/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/kavyasharma2005/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kavyasharma2005/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kavyasharma2005/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3921-score-validator](https://github.com/kavyasharma2005/LeetCode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/kavyasharma2005/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kavyasharma2005/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/kavyasharma2005/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kavyasharma2005/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3908-valid-digit-number](https://github.com/kavyasharma2005/LeetCode/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/kavyasharma2005/LeetCode/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/kavyasharma2005/LeetCode/tree/master/3959-check-good-integer) |
