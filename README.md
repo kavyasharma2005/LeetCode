@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/kavyasharma2005/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/kavyasharma2005/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3903-smallest-stable-index-i](https://github.com/kavyasharma2005/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3921-score-validator](https://github.com/kavyasharma2005/LeetCode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/kavyasharma2005/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/kavyasharma2005/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -807,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kavyasharma2005/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1871-jump-game-vii](https://github.com/kavyasharma2005/LeetCode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/kavyasharma2005/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [3903-smallest-stable-index-i](https://github.com/kavyasharma2005/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Trie
 |  |
 | ------- |
