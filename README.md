@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/kavyasharma2005/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/kavyasharma2005/LeetCode/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/kavyasharma2005/LeetCode/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/kavyasharma2005/LeetCode/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/kavyasharma2005/LeetCode/tree/master/0846-hand-of-straights) |
 | [0867-transpose-matrix](https://github.com/kavyasharma2005/LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/kavyasharma2005/LeetCode/tree/master/0877-stone-game) |
@@ -907,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kavyasharma2005/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kavyasharma2005/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/kavyasharma2005/LeetCode/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/kavyasharma2005/LeetCode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/kavyasharma2005/LeetCode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/kavyasharma2005/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2614-prime-in-diagonal](https://github.com/kavyasharma2005/LeetCode/tree/master/2614-prime-in-diagonal) |
