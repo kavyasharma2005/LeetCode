@@ -703,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kavyasharma2005/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kavyasharma2005/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1399-count-largest-group](https://github.com/kavyasharma2005/LeetCode/tree/master/1399-count-largest-group) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/kavyasharma2005/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/kavyasharma2005/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/kavyasharma2005/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kavyasharma2005/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -1221,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/kavyasharma2005/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/kavyasharma2005/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/kavyasharma2005/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/kavyasharma2005/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/kavyasharma2005/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Union-Find
 |  |
