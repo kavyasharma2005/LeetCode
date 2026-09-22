@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/kavyasharma2005/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3477-fruits-into-baskets-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kavyasharma2005/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3525-find-x-value-of-array-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kavyasharma2005/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/kavyasharma2005/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3492-maximum-containers-on-a-ship](https://github.com/kavyasharma2005/LeetCode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kavyasharma2005/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/kavyasharma2005/LeetCode/tree/master/3516-find-closest-person) |
+| [3525-find-x-value-of-array-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/kavyasharma2005/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kavyasharma2005/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kavyasharma2005/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -1036,6 +1038,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2276-count-integers-in-intervals](https://github.com/kavyasharma2005/LeetCode/tree/master/2276-count-integers-in-intervals) |
 | [3161-block-placement-queries](https://github.com/kavyasharma2005/LeetCode/tree/master/3161-block-placement-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
