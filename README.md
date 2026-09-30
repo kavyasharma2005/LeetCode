@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-camelcase-matching](https://github.com/kavyasharma2005/LeetCode/tree/master/1023-camelcase-matching) |
 | [1044-longest-duplicate-substring](https://github.com/kavyasharma2005/LeetCode/tree/master/1044-longest-duplicate-substring) |
 | [1108-defanging-an-ip-address](https://github.com/kavyasharma2005/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kavyasharma2005/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1154-day-of-the-year](https://github.com/kavyasharma2005/LeetCode/tree/master/1154-day-of-the-year) |
 | [1189-maximum-number-of-balloons](https://github.com/kavyasharma2005/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kavyasharma2005/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -979,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/kavyasharma2005/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/kavyasharma2005/LeetCode/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/kavyasharma2005/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kavyasharma2005/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kavyasharma2005/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/kavyasharma2005/LeetCode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/kavyasharma2005/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -1316,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kavyasharma2005/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kavyasharma2005/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kavyasharma2005/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
