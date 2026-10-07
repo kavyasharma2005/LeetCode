@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3925-concatenate-array-with-reverse](https://github.com/kavyasharma2005/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/kavyasharma2005/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [4020-elevator-requests-i](https://github.com/kavyasharma2005/LeetCode/tree/master/4020-elevator-requests-i) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/kavyasharma2005/LeetCode/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Hash Table
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/kavyasharma2005/LeetCode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/kavyasharma2005/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/kavyasharma2005/LeetCode/tree/master/3945-digit-frequency-score) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/kavyasharma2005/LeetCode/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## String
 |  |
 | ------- |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kavyasharma2005/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/kavyasharma2005/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kavyasharma2005/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/kavyasharma2005/LeetCode/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Prefix Sum
 |  |
 | ------- |
