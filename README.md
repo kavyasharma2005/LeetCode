@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/kavyasharma2005/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2965-find-missing-and-repeated-values](https://github.com/kavyasharma2005/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/kavyasharma2005/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kavyasharma2005/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/kavyasharma2005/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/kavyasharma2005/LeetCode/tree/master/3161-block-placement-queries) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/kavyasharma2005/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/kavyasharma2005/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kavyasharma2005/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/kavyasharma2005/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/kavyasharma2005/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kavyasharma2005/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -829,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/kavyasharma2005/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/kavyasharma2005/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kavyasharma2005/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/kavyasharma2005/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/kavyasharma2005/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kavyasharma2005/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/kavyasharma2005/LeetCode/tree/master/4038-count-integers-appearing-in-a-single-block) |
