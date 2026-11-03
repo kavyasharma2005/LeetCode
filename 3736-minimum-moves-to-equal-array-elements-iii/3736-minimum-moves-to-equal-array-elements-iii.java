@@ -1,4 +1,5 @@
-class Solution {
+class Solution 
+{
     public int minMoves(int[] nums) 
     {
         int count=0,max=0;
