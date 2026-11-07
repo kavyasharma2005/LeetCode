@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3921-score-validator](https://github.com/kavyasharma2005/LeetCode/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/kavyasharma2005/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/kavyasharma2005/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [3978-unique-middle-element](https://github.com/kavyasharma2005/LeetCode/tree/master/3978-unique-middle-element) |
 | [4020-elevator-requests-i](https://github.com/kavyasharma2005/LeetCode/tree/master/4020-elevator-requests-i) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/kavyasharma2005/LeetCode/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Hash Table
@@ -839,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/kavyasharma2005/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/kavyasharma2005/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/kavyasharma2005/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3978-unique-middle-element](https://github.com/kavyasharma2005/LeetCode/tree/master/3978-unique-middle-element) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/kavyasharma2005/LeetCode/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Prefix Sum
 |  |
