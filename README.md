@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/kavyasharma2005/LeetCode/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/kavyasharma2005/LeetCode/tree/master/0846-hand-of-straights) |
 | [0867-transpose-matrix](https://github.com/kavyasharma2005/LeetCode/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/kavyasharma2005/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/kavyasharma2005/LeetCode/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/kavyasharma2005/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/kavyasharma2005/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/kavyasharma2005/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/kavyasharma2005/LeetCode/tree/master/0732-my-calendar-iii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kavyasharma2005/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/kavyasharma2005/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/kavyasharma2005/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0981-time-based-key-value-store](https://github.com/kavyasharma2005/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/kavyasharma2005/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
