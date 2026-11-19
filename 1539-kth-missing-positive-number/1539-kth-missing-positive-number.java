@@ -1,20 +1,19 @@
 class Solution {
-    public int findKthPositive(int[] arr, int k) {
+    public static int findKthPositive(int[] arr, int k)
+    {
+        int low=0,high=arr.length-1;
 
-        int prev = 0; // previous number in sequence
+        while(low<=high)
+        {
+            int mid=low+(high-low)/2;
 
-        for (int i = 0; i < arr.length; i++) {
+            int missing=arr[mid]-mid-1;
 
-            int gap = arr[i] - prev - 1;
-
-            if (k <= gap) {
-                return prev + k;
-            }
-
-            k -= gap;
-            prev = arr[i];
+            if(missing<k)
+                low=mid+1;
+            else
+                high=mid-1;
         }
-
-        return prev + k;
+        return low + k;
     }
 }
