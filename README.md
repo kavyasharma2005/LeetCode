@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/kavyasharma2005/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1002-find-common-characters](https://github.com/kavyasharma2005/LeetCode/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/kavyasharma2005/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kavyasharma2005/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1023-camelcase-matching](https://github.com/kavyasharma2005/LeetCode/tree/master/1023-camelcase-matching) |
 | [1046-last-stone-weight](https://github.com/kavyasharma2005/LeetCode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/kavyasharma2005/LeetCode/tree/master/1051-height-checker) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/kavyasharma2005/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0981-time-based-key-value-store](https://github.com/kavyasharma2005/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/kavyasharma2005/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/kavyasharma2005/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1044-longest-duplicate-substring](https://github.com/kavyasharma2005/LeetCode/tree/master/1044-longest-duplicate-substring) |
 | [1268-search-suggestions-system](https://github.com/kavyasharma2005/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/kavyasharma2005/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
